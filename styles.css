@@ -46,3 +46,7 @@ img {
 footer {
     text-align: center;
 }
+
+p.funParagraph {
+    color:green;
+}
